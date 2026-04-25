@@ -1,0 +1,10 @@
+- term: Crusader
+  category: Unit
+  translation_tr: Seferkâr
+  alternatives:
+    - Haçlı
+  description_en: A devout warrior fighting in the holy trenches.
+  description_tr: Kutsal siperlerde savaşan adanmış savaşçı.
+  example: "The Crusader advanced without fear."
+  notes: Dini ve arkaik ton önemli.
+  status: Draft
